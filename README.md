@@ -26,7 +26,7 @@ The feature variables used included the book price, the number of helpful & tota
 Following the modeling process, the feature variables were analyzed to determine which were the most important in terms of predicting whether books were deemed popular or not. Of them, the book **price** was by far the most important. Five other variables (listed below) also had a relatively notable importance.
 - The number of positive words in a reader's full review.
 - The number of total reviews published of a book.
-- The percentage of reviews deemed helpful of a book.
+- The percentage of reviews of a book deemed helpful.
 - The number of positive words in a book's description.
 - The number of helpful reviews published of a book.
 
