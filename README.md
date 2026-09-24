@@ -15,7 +15,7 @@ Build a model that predicts whether a book will be rated as popular or not.  The
 
 
 ### Brief Summary
-The dataset utilized revolved around books that have been sold & their characteristics like title, author, category, price, & a label deeming them popular or unpopular. Details concerning readers' reviews were also included.  
+The dataset utilized revolved around books & their characteristics including the title, author, category, price, & a label deeming them popular or unpopular. Details concerning readers' reviews were also included.  
 A brief evaluation of the dataset revealed that there was only one missing value among 15,719. Of these reviews, 10,490 labeled a book "Unpopular" & 5,229 labeled a book "Popular"; about a 2:1 ratio.
 
 Multiple preprocessing steps were utilized to prepare the dataset including the creation of new variables, data standardization, & transformations. A random forest classifier, along with a random search cross-validation, were built & executed.  
