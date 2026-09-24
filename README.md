@@ -34,7 +34,7 @@ A more in-depth summary can be found in the project.
 
 
 ### Recommendations
-To achieve a model that achieves the desired predictive capabilities, a random forest classifier can be used with the particular hyperparameter values & feature variables found in the project.
+To achieve a model that achieves the desired predictive capabilities, a random forest classifier can be used with the particular hyperparameter values & feature variables used & referenced in the project.
 
 Of course, the model could possibly be optimized beyond what was done in this instance. Further experimentation could explore alternative machine learning algorithms, different interpretations & implementations of the text variables, & different sets of feature variables to try & elevate the model's predictive capabilities.  
 On another note, by continuing to obtain & sell books, thus compiling more data, it can help contribute towards building more powerful predictive models that are more flexible & accurate in evaluating whether books will be labeled as popular or not.
